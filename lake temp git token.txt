@@ -1,3 +1,0 @@
-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
-
-git remote add origin https://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@github.com/krazy-dreamer/Lake_Michigan_Temp_Project
